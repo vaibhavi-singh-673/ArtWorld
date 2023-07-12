@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
+    url("https://res.cloudinary.com/vaibhavi/image/upload/v1685358255/music-vector-set-bundle-design_548646-6281_hsihbn.avif");
+    background-size: cover;
+    background-position: center; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(231, 239, 240);
+  
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("https://images.vexels.com/media/users/3/268199/raw/7cc223c11bec62c445029ca7e9e68282-rainbow-smoke-cloud-background-design.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60h;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
